@@ -1,4 +1,6 @@
-# Traveling Salesman Problem (TSP) Using Genetic Algorithm
+# Traveling Salesman Problem Using Genetic Algorithm
+
+![tsp gif](genetic-tsp.gif)
 
 This GitHub repository contains a Python implementation of solving the Traveling Salesman Problem (TSP) using a genetic algorithm. The algorithm aims to find an optimal route for a salesman to visit a set of cities exactly once and return to the starting city while minimizing the total distance traveled.
 
